@@ -13,7 +13,7 @@
  "dependencies": {
   "fb": "^2.0.0",
   "jwt-simple": "^0.5.6",
-  "request": "github:LexisDev/request#4e8513e3ed9c85765d8454a59c74790922c70eb6",
+  "request": "2.88.0",
   "urlsafe-base64": "^1.0.0",
   "xml-crypto": "4.0.1",
   "@xmldom/xmldom": "0.8.10"
